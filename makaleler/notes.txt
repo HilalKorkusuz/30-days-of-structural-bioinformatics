@@ -1,0 +1,19 @@
+Ramachandran grafiği, proteinlerin üç boyutlu yapılarını incelemek ve doğrulamak için kullanılan iki boyutlu bir görselleştirme aracıdır. Amino asitlerin omurga bağları etrafındaki dönme açıları olan phi (φ) ve psi (ψ) dihedral açılarının enerji açısından hangi bölgelerde kararlı olabileceğini gösterir.
+
+???? şimdi ionlu bi yapı ve ionlarını ıkardığım yapı farklı olmalı? bunu gözlemle
+
+(Domains): • Bir protein içindeki bağımsız olarak katlanan birimler. • Genellikle belirli işlevlerle ilişkilidir (örneğin, bağlanma, kataliz).
+(Motifs): • İkincil yapı elemanlarının küçük, tekrarlayan kombinasyonları.
+
+Domain arrangements
+Proteinler genellikle alanların bir kombinasyonundan oluşur. • Farklı alanlar farklı işlevlere katkıda bulunur (örneğin, bağlanma, kataliz, düzenleme). • Evrim, alanları yeniden düzenleyerek, işlevleri değişmiş yeni proteinler oluşturabilir. Proteinler, içerdikleri alanlara göre aileler halinde gruplandırılabilir.
+
+TIM barrel (veya TIM varili), doğada en yaygın görülen protein katlanma şekillerinden biridir. Adını yapısı ilk kez çözülen triozfosfat izomeraz (TIM) enziminden alır. Sekiz adet alfa sarmal (α-heliks) ve sekiz adet paralel beta ipliğinden (β-iplik) oluşan silindir (varil) benzeri bir yapıdır
+
+Degrees of flexibility:
+• Small-scale movements: Side chain
+rotations, loop fluctuations.
+• Large-scale conformational changes:
+Domain movements, hinge motions.
+
+İçsel olarak düzensiz proteinler (IDP): Tüm proteinler işlev görmek için katı 3 boyutlu yapılara ihtiyaç duymaz. • IDP'ler: Doğal hallerinde kararlı, tanımlanmış bir üçüncül yapıya sahip olmayan proteinler. • IDR'ler: Yapılandırılmış proteinler içindeki düzensiz bölgeler.
